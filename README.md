@@ -27,13 +27,6 @@ making the response messages dynamic to support any language dynamically.
        <version>0.0.1</version>
     </dependency>
     ```
-
-   For Gradle, you can include:
-
-    ```gradle
-    implementation 'com.message:message-util:0.0.1'
-    ```
-
    Optionally, you can use a Maven dependency server eg. reposilite for maintaining this dependency.
 
 
