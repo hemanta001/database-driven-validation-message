@@ -18,7 +18,7 @@ making the response messages dynamic to support any language dynamically.
 
 2. Install Redis server and SQL database (in this case, using PostgreSQL).
 
-3. After installing this library, add the following Maven project dependency in `pom.xml` of your project:
+3. After installing this library(use jdk 21 for install), add the following Maven project dependency in `pom.xml` of your project:
 
     ```xml
     <dependency>
