@@ -136,4 +136,6 @@ making the response messages dynamic to support any language dynamically.
 ## Support
 
 For support, contact the author **Hemanta Ghimire** at **rockingguyheman.hg@gmail.com**. You can also contact via LinkedIn [Hemanta Ghimire](https://www.linkedin.com/in/hemanta-ghimire-23b7a4135/).
-GitHub Profile: https://github.com/hemanta001
+GitHub Profile: https://github.com/hemanta001 . 
+
+For Donation, you can donate me on `**esewa/khalti/phonepay - 9817152705**` 
