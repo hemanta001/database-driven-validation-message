@@ -124,7 +124,7 @@ making the response messages dynamic to support any language dynamically.
     ```
 
 
-8. In your request, include the header **`Accept-Language:en_US`** for English language , **`Accept-Language:ar`** for Arabic language , and **`Accept-Language:np`** for Nepali language in case of failed validation.
+8. In your request, include the header **`Accept-Language:en_US`** for English language , **`Accept-Language:ar`** for Arabic language , and **`Accept-Language:np`** for Nepali language.
 
 ## Support
 
